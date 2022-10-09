@@ -52,7 +52,7 @@ except URLError as e:
 
 
 
-streamlit.stop()
+#streamlit.stop()
 
 streamlit.header("The Fruit Load List Contains: ")
 def get_fruit_load_list():
